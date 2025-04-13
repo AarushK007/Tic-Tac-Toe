@@ -50,6 +50,7 @@ def wincondition():
         print("It's a draw.")
         winning = "Draw"
 
+#initialising the constants
 counter = 0
 Cursor = 0
 winning = False
